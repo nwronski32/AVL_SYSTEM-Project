@@ -28,3 +28,5 @@ The incident class creates and assigns units to an emergency incident based on t
 Reflection
 This project has been a rewarding way to blend my real-world experiences with programming, using the skills I acquired in my first year of college. In the future, I hope to enhance this system with real-time GPS tracking. If you have any questions or would like to connect, my contact information is provided below. Thank you for checking out my project!
 
+email: nickwronski32@gmail.com
+
